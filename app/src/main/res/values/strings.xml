@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CafeOrder</string>
+    <string name="logo">logo</string>
+    <string name="hint_name">Введите имя</string>
+    <string name="hint_password">Введите пароль</string>
+    <string name="button_enter">Войти</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="warning_fill_fields">Все поля должны быть заполнены</string>
+    <string name="coffee">Кофе</string>
+    <string name="tea">Чай</string>
+    <string name="text_hello">Привет, %s! Что будете заказывать?</string>
+    <string name="ask_addition">Что добавить в ваш %s?</string>
+    <string name="milk">Молоко</string>
+    <string name="sugar">Сахар</string>
+    <string name="lemon">Лимон</string>
+    <string name="type_of_drink">Выберите вид напитка</string>
+    <string name="description_button_make_order">Кнопка сделать заказ</string>
+    <string name="description_logo">Логотип</string>
+    <string-array name="types_of_coffee">
+        <item>Капучино</item>
+        <item>Латте</item>
+        <item>Американо</item>
+        <item>Эспрессо</item>
+    </string-array>
+    <string-array name="types_of_tea">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Красный</item>
+    </string-array>
+    <string name="result_tea">%s,\nВаш %s %s с %s скоро будет готов</string>
+    <string name="result_coffee">%s,\nВаш %s с %s скоро будет готов</string>
+    <string name="result_tea_without_additions">%s,\nВаш %s %s скоро будет готов</string>
+    <string name="result_coffee_without_additions">%s,\nВаш %s скоро будет готов</string>
+</resources>
